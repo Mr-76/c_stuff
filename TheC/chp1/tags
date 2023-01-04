@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/cremoso/git/c_stuff/TheC/chp1/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
+IN	count_words_space.c	/^#define IN /;"	d	file:
+LOWER	celsius_fah.c	/^#define LOWER /;"	d	file:
+MAX	celsius_fah.c	/^#define MAX /;"	d	file:
+OUT	count_words_space.c	/^#define OUT /;"	d	file:
+POWEROF_H	powerof.h	/^#define POWEROF_H$/;"	d
+STEP	celsius_fah.c	/^#define STEP /;"	d	file:
+SessionLoad	Session.vim	/^let SessionLoad = 1$/;"	v
+main	celsius_fah.c	/^int main(){$/;"	f	typeref:typename:int
+main	copy.c	/^int main() {$/;"	f	typeref:typename:int
+main	copy_replace.c	/^int main() {$/;"	f	typeref:typename:int
+main	count_words_space.c	/^int main() {$/;"	f	typeref:typename:int
+main	counterOfChars.c	/^int main() {$/;"	f	typeref:typename:int
+main	fahrenheight.c	/^int main(){$/;"	f	typeref:typename:int
+main	hello_world.c	/^main(){$/;"	f
+main	powerof.c	/^int main() {$/;"	f	typeref:typename:int
+main	testeArattays.c	/^int main() {$/;"	f	typeref:typename:int
+power	powerof.c	/^int power(int base, int n) {$/;"	f	typeref:typename:int
+s:l	Session.vim	/^let s:l = 3 - ((2 * winheight(0) + 16) \/ 32)$/;"	v
+s:shortmess_save	Session.vim	/^let s:shortmess_save = &shortmess$/;"	v
+s:so_save	Session.vim	/^let s:so_save = &g:so | let s:siso_save = &g:siso | setg so=0 siso=0 | setl so=-1 siso=-1$/;"	v
+s:sx	Session.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:wipebuf	Session.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
