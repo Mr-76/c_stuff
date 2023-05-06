@@ -1,0 +1,8 @@
+Write a variadic function concat that takes a variable number of strings as arguments and returns their concatenation as a single string.
+Write a variadic function average that takes a variable number of integers as arguments and returns their average value as a floating-point number.
+Write a variadic function find_max that takes a variable number of integers as arguments and returns the maximum value, as well as the index of the first occurrence of that value.
+Write a variadic function swap that takes a variable number of pointers as arguments and swaps their values.
+Write a variadic function print that takes a variable number of arguments of any type and prints them to the console, with a separator character between each argument.
+Write a variadic function safe_scanf that behaves like the standard library scanf function, but checks for buffer overflow attacks by limiting the number of characters read from the input stream.
+Write a variadic function quicksort that takes a variable number of integers as arguments and sorts them using the quicksort algorithm.
+Write a variadic function polynomial that takes a variable number of integer coefficients as arguments, representing the coefficients of a polynomial in decreasing order of degree, and returns a function pointer to a function that evaluates the polynomial at a given point.
