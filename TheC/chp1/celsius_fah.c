@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdarg.h>
 #define LOWER 0
 #define MAX 300
 #define STEP 20

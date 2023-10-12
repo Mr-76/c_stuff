@@ -1,0 +1,4 @@
+make one tool that gets the selling price of the computer if it has rgb or not and the list of computer parts
+./computer -p (sell price) -r (rgb or not) -s (store_name) (computer parts) 
+exemple:
+./computer -p R$4000 -r s -s games_stop ryzen5800 gpu4080 motherboardb450 psu850wcoolermaster 

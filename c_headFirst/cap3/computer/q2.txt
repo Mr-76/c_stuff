@@ -1,0 +1,15 @@
+write a program that reads a inpout file parts.txt
+and calculates the total price and power usage of the computer can later be upgraded to be able to select the parts by specifying as a list of
+parts the file will be price,cpu,gpu,psu,motherboard,n_ofcoolers,powerusage.
+
+parts.txt exemple whow it looks
+R$1300,ryen7,gtx1080,collermaster850w,b450m,3,500w
+R$2300,ryen7,gtx1080,collermaster850w,b450m,3,500w
+
+
+
+fulture:
+R$1300,ryen7,type=cpu.
+this will be read and stored in a array with the cpu name and price 
+so we have cpu array gpu array psu array cooler array.with all of these than
+the user will be asked to select the parts 

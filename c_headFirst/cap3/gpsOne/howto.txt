@@ -1,0 +1,1 @@
+this is a single program starting with bermuda that gets the input and passes to geo2json(./bermudap | ./geo2json ) < gpsdata.csv > output.json

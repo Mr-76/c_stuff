@@ -1,0 +1,1 @@
+./a.out < gpsdata.csv this does send each line from the file to the standar input of the program and workds
